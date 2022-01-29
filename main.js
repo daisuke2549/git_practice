@@ -1,1 +1,1 @@
-alert("code begin生と勉強中です")
+// alert("code begin生と勉強中です")
